@@ -1,4 +1,4 @@
-# Olá - Me chamo Jefferson/ "Jeff"
+# Olá - Me chamo Jefferson - desenvolvedor 💻
 --------------------------------------------------
 Este é o meu primeiro site de portfólio pessoal construído com HTML e CSS.
 --------------
@@ -10,7 +10,6 @@ Este é o meu primeiro site de portfólio pessoal construído com HTML e CSS.
 ------------
 
 Olá, me chamo Jefferson - um desenvolvedor web que atualmente aprende HTML e CSS.
-
 Este projeto inclui as seguintes seções:
 
 * Um cabeçalho com meu nome e título
@@ -31,3 +30,9 @@ Este projeto inclui as seguintes seções:
 
 ------------------------
 🙏 Obrigado pela visita!
+
+------------------
+
+🔋Atualizações em breve 
+
+
