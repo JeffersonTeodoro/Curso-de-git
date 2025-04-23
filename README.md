@@ -1,4 +1,4 @@
-# Olá - Me chamo Jefferson - desenvolvedor 💻
+# Olá - Me chamo Jefferson - Desenvolvedor 💻
 --------------------------------------------------
 Este é o meu primeiro site de portfólio pessoal construído com HTML e CSS.
 --------------
