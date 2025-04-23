@@ -4,9 +4,8 @@ Este é o meu primeiro site de portfólio pessoal construído com HTML e CSS.
 --------------
 
 🌐 Site ao vivo
-
-http://127.0.0.1:5500/index.html
 ------------------------
+http://127.0.0.1:5500/index.html
 
 📖 Sobre
 ------------
@@ -20,21 +19,27 @@ Este projeto inclui as seguintes seções:
 
 -------------------------------------------
 🔧 Tecnologia usada
+------------
 
 * HTML
 * CSS
 --------------------------
+
 📞 Contato
+------------
 
 *📧 E-mail: jeffersonfrancateodoro@gmail.com
 
 *🧑💻 GitHub: https://github.com/JeffersonTeodoro
 
 ------------------------
+
 🙏 Obrigado pela visita!
+------------
 
 ------------------
 
-🔋Atualizações em breve 
+🔋Atualizações em breve
+------------
 
 
