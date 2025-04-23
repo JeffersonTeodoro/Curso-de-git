@@ -7,8 +7,10 @@ Este é o meu primeiro site de portfólio pessoal construído com HTML e CSS.
 
 ------------------------
 📖 Sobre
-Olá, sou Jefferson - um desenvolvedor web que atualmente aprende HTML e CSS.
+
+Olá, me chamo Jefferson - um desenvolvedor web que atualmente aprende HTML e CSS.
 Este projeto inclui as seguintes seções:
+
 * Um cabeçalho com meu nome e título
 * Uma seção sobre
 * Informações de contato (e-mail + GitHub)
